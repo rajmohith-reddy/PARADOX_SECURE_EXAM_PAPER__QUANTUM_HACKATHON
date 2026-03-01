@@ -58,6 +58,9 @@ We also simulate:
 | With Eavesdropper | ~0.25      |
 | Noise (5%)        | ~0.05–0.10 |
 |-------------------|------------|
+
+---
+
 Key Insight:
 - Eavesdropping introduces ~25% error due to measurement disturbance.
 - Noise increases error gradually.
@@ -75,7 +78,7 @@ Quantum BB84:
 - No-cloning theorem prevents copying qubits
 This makes the system future-ready.
 ---
-##Hybrid Model
+Hybrid Model
 Quantum Key Distribution (BB84)  
             ⬇  
     Generated Secure Key  
