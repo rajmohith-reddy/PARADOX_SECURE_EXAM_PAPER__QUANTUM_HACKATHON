@@ -113,7 +113,7 @@ pip install -r requirements.txt
 ```
 Run:
 ```
-python quantum_exam_security.py
+python stream_app.py
 ```
 ## Reference
 Bennett, C. H., & Brassard, G. (1984).
