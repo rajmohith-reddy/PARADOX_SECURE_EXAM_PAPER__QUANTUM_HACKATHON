@@ -57,7 +57,6 @@ We also simulate:
 | Clean Channel     | ~0.01      |
 | With Eavesdropper | ~0.25      |
 | Noise (5%)        | ~0.05–0.10 |
-|-------------------|------------|
 
 ---
 
